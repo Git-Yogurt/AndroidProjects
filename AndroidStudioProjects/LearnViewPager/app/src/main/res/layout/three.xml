@@ -6,6 +6,5 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/guide_3"
-        android:id="@+id/image3"/>
+        android:src="@drawable/guide_3" />
 </LinearLayout>
